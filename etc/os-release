@@ -1,0 +1,9 @@
+NAME="budgie-remix"
+VERSION="16.04"
+ID="budgie-remix"
+ID_LIKE=ubuntu
+PRETTY_NAME="budgie-remix"
+VERSION_ID="16.04"
+HOME_URL="http://launchpad.net/budgie-remix"
+SUPPORT_URL="http://launchpad.net/budgie-remix"
+BUG_REPORT_URL="https://bugs.launchpad.net/budgie-remix/+filebug"
