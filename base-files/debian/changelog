@@ -1,14 +1,8 @@
-base-files (9.4ubuntu4+budgie-remix3~ubuntu16.04.1) xenial; urgency=low
+base-files (9.4ubuntu4+budgie-remix1) xenial; urgency=medium
 
-  * Move to budgie-remix.
+  * package updates for budgie-remix
 
- -- SpotTech <spottechmail@gmail.com>  Sun, 24 Apr 2016 13:07:24 +0200
-
-base-files (9.4ubuntu4+elementary3~ubuntu16.04.1) xenial; urgency=low
-
-  * Auto build.
-
- -- Launchpad Package Builder <noreply@launchpad.net>  Fri, 15 Apr 2016 05:44:24 +0000
+ -- David Mohammed <foss.freedom@gmail.com>  Tue, 26 Apr 2016 21:53:53 +0100
 
 base-files (9.4ubuntu4) xenial; urgency=medium
 

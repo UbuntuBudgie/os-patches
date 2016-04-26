@@ -1,24 +1,6 @@
-syslinux-themes-budgie-remix (1-0~1~daily~ubuntu16.4) xenial; urgency=low
+syslinux-themes-budgie-remix (0.1-1) xenial; urgency=low
 
-  * Move to budgie-remix.
-  * Fix symlinks
+  * Close (#0000)
+  * Initial Release
 
  -- SpotTech <spottechmail@gmail.com>  Sun, 24 Apr 2016 12:29:52 +0200
-
-syslinux-themes-elementary (2-0~6~daily~ubuntu15.10.1) wily; urgency=low
-
-  * Auto build.
-
- -- Launchpad Package Builder <noreply@launchpad.net>  Sun, 13 Sep 2015 20:31:52 +0000
-
-syslinux-themes-elementary (2) saucy; urgency=low
-
-  * New upstream release.
-
- -- Cody Garver <cody@elementaryos.org>  Sun, 25 Aug 2013 21:42:35 -0500
-
-syslinux-themes-elementary (1) precise; urgency=low
-
-  * Initial release.
-
- -- Ivo Nunes <netherblood@gmail.com>  Tue, 5 Jun 2012 18:15:00 +0100
