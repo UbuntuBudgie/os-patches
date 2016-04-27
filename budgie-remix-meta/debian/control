@@ -1,0 +1,16 @@
+Source: budgie-remix-meta
+Section: metapackages
+Priority: optional
+Maintainer: SpotTech <spottechmail@gmail.com>
+Standards-Version: 3.9.7
+Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
+
+Package: budgie-remix-desktop
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: The budgie-remix desktop system
+ This package depends on all of the packages in the budgie-remix
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
