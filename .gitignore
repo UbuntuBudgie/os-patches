@@ -1,2 +1,2 @@
-.bzr/
-.bzr-builddeb/
+*/.bzr/
+*/.bzr-builddeb/
