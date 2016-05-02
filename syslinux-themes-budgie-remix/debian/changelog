@@ -1,5 +1,11 @@
 syslinux-themes-budgie-remix (0.1-1) xenial; urgency=low
 
+  * Test fix failled install after build
+
+ -- SpotTech <spottechmail@gmail.com>  Mon, 02 May 2016 09:06:17 +0200
+
+syslinux-themes-budgie-remix (0.1-1) xenial; urgency=low
+
   * Close (#0000)
   * Initial Release
 

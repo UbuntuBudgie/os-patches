@@ -5,9 +5,8 @@ Maintainer: SpotTech <spottechmail@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.7
 
-Package: syslinux-themes-budgie-remix
+Package: syslinux-themes-budgie-remix-xenial
 Architecture: all
-Depends: ${misc:Depends}, syslinux-themes-budgie-remix-xenial
 Description: collection of boot loaders (theme metapackage)
  SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
  btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
