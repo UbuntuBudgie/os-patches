@@ -1,7 +1,7 @@
-usr/lib/ISOLINUX/isolinux.bin usr/share/syslinux/themes/ubuntu-xenial/isolinux-live/isolinux.bin
-usr/lib/syslinux/modules/bios/chain.c32 usr/share/syslinux/themes/ubuntu-xenial/isolinux-live/chain.c32
-usr/lib/syslinux/modules/bios/gfxboot.c32 usr/share/syslinux/themes/ubuntu-xenial/isolinux-live/gfxboot.c32
-usr/lib/syslinux/modules/bios/ldlinux.c32 usr/share/syslinux/themes/ubuntu-xenial/isolinux-live/ldlinux.c32
-usr/lib/syslinux/modules/bios/libcom32.c32 usr/share/syslinux/themes/ubuntu-xenial/isolinux-live/libcom32.c32
-usr/lib/syslinux/modules/bios/libutil.c32 usr/share/syslinux/themes/ubuntu-xenial/isolinux-live/libutil.c32
-usr/lib/syslinux/modules/bios/vesamenu.c32 usr/share/syslinux/themes/ubuntu-xenial/isolinux-live/vesamenu.c32
+usr/lib/ISOLINUX/isolinux.bin usr/share/syslinux/themes/budgie-remix-xenial/isolinux-live/isolinux.bin
+usr/lib/syslinux/modules/bios/chain.c32 usr/share/syslinux/themes/budgie-remix-xenial/isolinux-live/chain.c32
+usr/lib/syslinux/modules/bios/gfxboot.c32 usr/share/syslinux/themes/budgie-remix-xenial/isolinux-live/gfxboot.c32
+usr/lib/syslinux/modules/bios/ldlinux.c32 usr/share/syslinux/themes/budgie-remix-xenial/isolinux-live/ldlinux.c32
+usr/lib/syslinux/modules/bios/libcom32.c32 usr/share/syslinux/themes/budgie-remix-xenial/isolinux-live/libcom32.c32
+usr/lib/syslinux/modules/bios/libutil.c32 usr/share/syslinux/themes/budgie-remix-xenial/isolinux-live/libutil.c32
+usr/lib/syslinux/modules/bios/vesamenu.c32 usr/share/syslinux/themes/budgie-remix-xenial/isolinux-live/vesamenu.c32
