@@ -1,16 +1,29 @@
-Source: syslinux-themes-budgie-remix
+Source: syslinux-themes-ubuntu
 Section: misc
 Priority: optional
 Maintainer: SpotTech <spottechmail@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.7
+Standards-Version: 3.9.2
 
-Package: syslinux-themes-budgie-remix-xenial
-Architecture: all
+Package: syslinux-themes-budgie-remix
+Architecture: amd64 i386
+Depends: ${misc:Depends}, syslinux-themes-ubuntu-xenial
 Description: collection of boot loaders (theme metapackage)
  SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
  btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
  or from CD-ROMs.
  .
  This package depends on the package with the graphical bootloader theme
- for the matching budgie-remix release.
+ for the matching Ubuntu release.
+
+Package: syslinux-themes-budgie-remix-xenial
+Architecture: amd64 i386
+Depends: ${misc:Depends}, memtest86+, syslinux-common, isolinux
+Enhances: extlinux
+Provides: syslinux-theme
+Description: collection of boot loaders (ubuntu-xenial theme)
+ SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
+ btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
+ or from CD-ROMs.
+ .
+ This package contains the graphical bootloader theme for Ubuntu 16.04.
