@@ -1,4 +1,4 @@
-syslinux-themes-budgie-remix (0.1-1) xenial; urgency=low
+syslinux-themes-budgie-remix (0.2-1) xenial; urgency=low
 
   * Test fix failled install after build
 
